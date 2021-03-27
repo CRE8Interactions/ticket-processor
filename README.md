@@ -1,2 +1,2 @@
 ### run the app in dev:  
-`$ DEBUG=sos-api:* npm start`
+`$ DEBUG=ticket-processor:* npm start`
